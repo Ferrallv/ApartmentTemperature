@@ -6,3 +6,9 @@ This repository is a personal project where, overtime, I hope to see how differe
 The project started with the plan to just prove this:
 
 ![](/Pictures/ApartmentTemperatureOverTime.png)
+
+I wanted to show the property manager how my apartment was more often below the legal minimum temperature than not. Good news! This is no longer the case, they replaced the roof and now we are toasty/comfortable. 
+
+I am continuing the project, recording monthly data to see how and if external variables effect my apartment temperature. The next step would then be some regressions. 
+
+The Jupyter Notebook outlines my process, how I am collecting the data, and initial insights.
