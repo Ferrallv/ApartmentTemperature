@@ -13,4 +13,4 @@ I am continuing the project, recording monthly data to see how and if external v
 
 The Jupyter Notebook outlines my process, how I am collecting the data, and initial insights.
 
-The ApartmentTempDash is an app I created in Plotly Dash to add some interactivity to my related blog post.
+The ApartmentTempDash is an app I created in Plotly Dash to add some interactivity to my related blog post. You can try it out for yourself [here](https://apartment-dash-app.herokuapp.com/).
