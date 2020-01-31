@@ -12,3 +12,5 @@ I wanted to show the property manager how my apartment was more often below the 
 I am continuing the project, recording monthly data to see how and if external variables effect my apartment temperature. The next step would then be some regressions. 
 
 The Jupyter Notebook outlines my process, how I am collecting the data, and initial insights.
+
+The ApartmentTempDash is an app I created in Plotly Dash to add some interactivity to my related blog post.
