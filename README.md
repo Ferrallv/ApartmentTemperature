@@ -5,4 +5,4 @@ This repository is a personal project where, overtime, I hope to see how differe
 
 The project started with the plan to just prove this:
 
-{% Pictures 'Apartment Temperature Over Time.html' %}
+![](/Pictures/ApartmentTemperatureOverTime.png)
